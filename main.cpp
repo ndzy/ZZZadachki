@@ -66,7 +66,7 @@ int main(){
 // Задание 2.1 Посчитать сумму цифр 4хзначного числа
 
 #include <iostream>
-#include <cmath
+#include <cmath>
 using namespace std;
 
 int main()
