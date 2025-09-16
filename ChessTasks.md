@@ -32,8 +32,8 @@ int main(){
   }
 }
 ```
+<img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/4b43749b-72c8-4b29-acd1-195d6ea53bb3" />
 
-![[Pasted image 20250916191305.png | 300]]
 
 ---
 # Король:
