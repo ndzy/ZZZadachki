@@ -32,6 +32,7 @@ int main(){
   }
 }
 ```
+
 <img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/4b43749b-72c8-4b29-acd1-195d6ea53bb3" />
 
 
@@ -71,7 +72,7 @@ int main(){
 ```
 ### Функция abs берет модуль от разности вертикальных и горизонтальных клеток хода короля, а так как модуль этой разности может быть равен `только 0 и 1`, т.к. только при таких значениях ход существует. 
 
-![[Pasted image 20250916191413.png | 300]]
+<img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/7719b988-6a49-4397-8fd7-e560802a411c" />
 
 ---
 # Слон:
@@ -107,7 +108,7 @@ int main(){
 }
 ```
 
-![[Pasted image 20250916202109.png | 300]]
+<img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/d85afb57-741c-4d18-8db9-45d0bf41e51a" />
 
 ---
 # Ферзь:
@@ -143,7 +144,7 @@ int main(){
 }
 ```
 
-![[Pasted image 20250916203343.png | 300]]
+<img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/5125208f-ef41-4736-8d31-df2730d10a5d" />
 
 ---
 # Конь: 
@@ -164,6 +165,7 @@ int main(){
 }
 ```
 
-![[Pasted image 20250916213752.png | 300]]
+<img width="300" height="300" alt="изображение" src="https://github.com/user-attachments/assets/27598748-0b94-4117-906c-012c28444393" />
+
 
 ---
