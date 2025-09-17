@@ -1,3 +1,21 @@
+// Задание 1
+
+//#include <iostream>
+//#include <cmath>
+//int main(){
+//  using namespace std;
+//  int a, b, c;
+//  printf("Введите коэффиценты квадратного уравнения: \n");
+//  cin >> a >> b >> c;
+//  int D = pow (-b, 2) - 4 * a * c;
+//  int x1 = (-b + sqrt(D))/2*a, x2 = (-b - sqrt(D))/2*a;
+//  if ( D > 0 ){
+//    cout << "Корни квадратного уравнения: " << x1 << "; " << x2; 
+//  } else {
+//    printf("Дискриминант Меньше Нуля. Корней нет!");
+//  }
+//}
+
 // Задание 2.1
 
 //#include <iostream> 
@@ -276,3 +294,57 @@
 //        return 1;
 //    }
 //}
+
+// Задание 4.2 
+
+//#include <iostream>   // Третья четверь - x < 0: y < 0
+//int main(){
+//  using namespace std;
+//  int x, y;
+//  cin >> x >> y;
+//  if ( x < 0 and y < 0){
+//    printf("Это, определенно, третья четверь!");
+//  } else {
+//    printf("Это не третья четверть.");
+//  }
+//}
+
+// Задание 5.2
+
+//#include <iostream>
+//
+//int main(){
+//  using namespace std;
+//  int n1, n2, n3;
+//  cin >> n1 >> n2 >> n3;
+//  if(n1 < n2 and n1 < n3){
+//    cout << endl << n1;
+//  } else if (n2 < n1 and n2 < n3){
+//    cout << endl << n2;
+//  } else if ( n3 < n1 and n3 < n2){
+//    cout << endl <<n3;
+//  } else if ( n1 == n2 and n3 < n1){
+//    cout << endl << n3;
+//  } else if ( n1 == n2 and n3 > n1){
+//    cout << endl << n1;
+//  } else if ( n2 == n3 and n1 < n2){
+//    cout << endl << n1;
+//  } else if ( n2 == n3 and n1 > n2){
+//    cout << endl << n1;
+//  }
+//}
+
+// Задание 6.2
+
+#include <iostream>
+
+int main(){
+  using namespace std;
+  char letter;
+  cin >> letter;
+  if ( letter >= 'A' and letter <= 'Z'){
+    printf("Буква является латинской и заглавной.");
+  } else {
+    printf("Буква не соответствует условиям.");
+  }
+}
